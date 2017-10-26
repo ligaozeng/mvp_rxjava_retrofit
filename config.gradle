@@ -6,8 +6,8 @@ ext {
             applicationId     : "com.lgz.mvp_rxjava_retrofit",
             minSdkVersion     : 15,
             targetSdkVersion  : 25,
-            versionCode       : 436,
-            versionName       : "4.36"
+            versionCode       : 1,
+            versionName       : "1.0"
     ]
 
     dependVersion = [
