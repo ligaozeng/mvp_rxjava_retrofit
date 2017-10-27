@@ -11,9 +11,9 @@ import android.view.Window;
 
 import com.lgz.mvp_os_library.baseapp.AppManager;
 import com.lgz.mvp_os_library.baserx.RxManager;
-import com.lgz.mvp_os_library.commonutils.TUtil;
-import com.lgz.mvp_os_library.commonwidget.LoadingDialog;
-import com.lgz.mvp_os_library.commonwidget.StatusBarCompat;
+import com.lgz.mvp_os_library.utils.TUtil;
+import com.lgz.mvp_os_library.widget.LoadingDialog;
+import com.lgz.mvp_os_library.widget.StatusBarCompat;
 import com.lgz.mvp_os_library.daynightmodeutils.ChangeModeController;
 
 import butterknife.ButterKnife;

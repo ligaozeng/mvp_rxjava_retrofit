@@ -1,4 +1,4 @@
-package com.lgz.mvp_rxjava_retrofit.basebean;
+package com.lgz.mvp_rxjava_retrofit.bean.base;
 
 import java.io.Serializable;
 

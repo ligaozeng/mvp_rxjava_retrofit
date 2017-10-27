@@ -5,7 +5,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.app.FragmentTransaction;
 
-import com.lgz.mvp_os_library.commonutils.CollectionUtils;
+import com.lgz.mvp_os_library.utils.CollectionUtils;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.lgz.mvp_os_library.commonutils;
+package com.lgz.mvp_os_library.utils;
 
 import com.lgz.mvp_os_library.baseapp.AppConfig;
 import com.orhanobut.logger.LogLevel;

@@ -1,4 +1,4 @@
-package com.lgz.mvp_os_library.commonutils;
+package com.lgz.mvp_os_library.utils;
 
 import android.os.CountDownTimer;
 import android.widget.TextView;

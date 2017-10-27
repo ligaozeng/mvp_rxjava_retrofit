@@ -1,4 +1,4 @@
-package com.lgz.mvp_os_library.commonwidget;
+package com.lgz.mvp_os_library.widget;
 
 import android.annotation.TargetApi;
 import android.content.Context;

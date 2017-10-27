@@ -10,8 +10,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.lgz.mvp_os_library.baserx.RxManager;
-import com.lgz.mvp_os_library.commonutils.TUtil;
-import com.lgz.mvp_os_library.commonwidget.LoadingDialog;
+import com.lgz.mvp_os_library.utils.TUtil;
+import com.lgz.mvp_os_library.widget.LoadingDialog;
 
 import butterknife.ButterKnife;
 

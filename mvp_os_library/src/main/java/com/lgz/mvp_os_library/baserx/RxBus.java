@@ -2,7 +2,7 @@ package com.lgz.mvp_os_library.baserx;
 
 import android.support.annotation.NonNull;
 
-import com.lgz.mvp_os_library.commonutils.LogUtils;
+import com.lgz.mvp_os_library.utils.LogUtils;
 
 import java.util.ArrayList;
 import java.util.Collection;

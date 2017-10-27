@@ -1,4 +1,4 @@
-package com.lgz.mvp_os_library.commondialog;
+package com.lgz.mvp_os_library.dialog;
 
 import android.app.Dialog;
 import android.content.Context;

@@ -4,8 +4,8 @@ import android.app.Activity;
 import android.content.Context;
 
 import com.lgz.mvp_os_library.baseapp.BaseApplication;
-import com.lgz.mvp_os_library.commonutils.NetWorkUtils;
-import com.lgz.mvp_os_library.commonwidget.LoadingDialog;
+import com.lgz.mvp_os_library.utils.NetWorkUtils;
+import com.lgz.mvp_os_library.widget.LoadingDialog;
 
 import mvp_os_library.R;
 import rx.Subscriber;
