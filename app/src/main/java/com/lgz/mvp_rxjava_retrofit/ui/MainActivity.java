@@ -1,7 +1,9 @@
-package com.lgz.mvp_rxjava_retrofit;
+package com.lgz.mvp_rxjava_retrofit.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.lgz.mvp_rxjava_retrofit.R;
 
 public class MainActivity extends AppCompatActivity {
 
